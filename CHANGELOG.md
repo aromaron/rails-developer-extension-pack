@@ -4,6 +4,5 @@ All notable changes to the "rails-developer-extension-pack" extension pack will 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
-
+## [1.0.0] - 2023-05-24
 - Initial release

@@ -2,7 +2,7 @@
   "name": "rails-developer-extension-pack",
   "displayName": "Rails Developer Extension Pack",
   "description": "Carefully selected extensions that I use to develop modern Ruby on Rails applications.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "aromaron",
   "engines": {
     "vscode": "^1.78.0"
