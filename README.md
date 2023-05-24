@@ -1,12 +1,12 @@
 # Rails Developer Extension Pack
 
 <div align="center">
-<img src="icons8-ruby-website-512.png" width=50%>
+<img src="icons8-ruby-website-512.png" width=20%>
 </div>
 
-
-Carefully selected extensions that I use to develop modern Ruby on Rails applications.
-
+##
+A selection of extensions that I use to develop modern Ruby on Rails applications.
+##
 
 ## Overview
 
